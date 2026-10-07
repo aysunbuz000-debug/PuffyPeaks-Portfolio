@@ -32,6 +32,9 @@ Jump between floating platforms, collect coins and keep climbing. Wind zones and
 <tr><td>Main Menu</td><td>Market</td><td>Game Over</td></tr>
 </table>
 
+<p><img src="docs/images/challenges.jpg" width="260" alt="Puffy Peaks Challenges"></p>
+<p>Challenges</p>
+
 ## Features
 
 - Vertical jumping, camera tracking and progressively harder platform layouts.
