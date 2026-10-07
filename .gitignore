@@ -1,0 +1,39 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/.vs/
+/.idea/
+/.utmp/
+/GeneratedAssets/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.apk
+*.aab
+*.log
+# Credentials and signing material
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+*service-account*.json
+*service_account*.json
+credentials.json
+# Local authoring and capture helpers
+/Assets/Editor/MarketVisualPolish.cs*
+/Assets/Editor/CapturePortfolioScreens.cs*
+.DS_Store
+Thumbs.db
